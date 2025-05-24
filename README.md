@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science, C++ and Ethical Hacking.
 - 🌱 I’m currently learning C++. I am looking for Ethical Hacking docs to learn.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me: YouTube: @TheFifthDegree
+- 📫 How to reach me: Discord: socialwinteryt
 - 😄 Pronouns: He/Him
 
 <!---
