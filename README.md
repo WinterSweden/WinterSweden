@@ -1,16 +1,15 @@
-# 🌸 about me 🌸
+# ❄️ Meet Me ❄️
 
-**👩‍🎓 Name:** _Hitarth Choudhary_  
-**📬 Email:** _weentertain.2024@gmail.com_
+🧊 **Name:** Hitarth Choudhary  
+📩 **Email:** weentertain.2024@gmail.com
 
-**📝 Summary:**
-Hey there! I love cats and I am an avid reader with a passion for technology.
+☃️ **Summary:** Hey there! I love cats (and winter!) and am an avid reader with a passion for technology.
 
-🌦️ **Experience:**
-I have created multiple projects in C++ and Python, including MarkMyLife, LockedLicense, and CCM.
+🌨️ **Experience:**
+- I have coded multiple projects in C++ and Python, including MathRecode, LockedLicense, MarkMyLife, and CCM.
 
-🌈 **Skills:**
-Reading, Coding, Editing, Writing, Thinking
+🧤 **Skills:**
+- Coding, Gaming, Thinking, Designing, Singing, Writing
 
 ---
 *Crafted with care by **MarkMyLife***  
